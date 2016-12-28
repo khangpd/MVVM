@@ -10,18 +10,18 @@
 
 The following **required** functionality is complete:
 
-* [] Networking layer
-* [] View 
-* [] View model
+* [ ] Networking layer
+* [ ] View 
+* [ ] View model
 
 ## Logic 
 
-* [] Build networking handle data, error and cache data
-* [] Call api from server
-* [] Cache data in app
-* [] Update data when new data
-* [] ViewModel handle action 
-* [] Show data into view
+* [ ] Build networking handle data, error and cache data
+* [ ] Call api from server
+* [ ] Cache data in app
+* [ ] Update data when new data
+* [ ] ViewModel handle action 
+* [ ] Show data into view
 
 ## License
 
